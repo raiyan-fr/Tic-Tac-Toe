@@ -16,6 +16,8 @@ A simple and interactive web-based Tic Tac Toe game implemented in HTML, CSS, an
 3. The first player to achieve three in a row horizontally, vertically, or diagonally wins.
 4. If no player achieves three in a row and all boxes are filled, the game ends in a draw.
 
+## Author
 
+- [@raiyan-fr](https://www.github.com/raiyan-fr)
 
 Enjoy the game and have fun challenging your friends to a classic match of Tic Tac Toe!
